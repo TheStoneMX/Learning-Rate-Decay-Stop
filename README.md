@@ -8,4 +8,7 @@ This means not only we need to decrease the learning rate whe we need it, but al
 The code was developed in Pytorh
 
 
+
+![Loss plot](LearningRateCurves.png?raw=true)
+
 The EarlyStopping class in adaptivelearning.py is inspired by the ignite EarlyStopping class.
