@@ -11,4 +11,5 @@ The code was developed in Pytorh
 
 ![Loss plot](LearningRateCurves.PNG?raw=true)
 
-The EarlyStopping class in adaptivelearning.py is inspired by the ignite EarlyStopping class.
+### References
+The ```EarlyStopping``` class in ```pytorchtool.py``` is inspired by the [ignite EarlyStopping class](https://github.com/pytorch/ignite/blob/master/ignite/handlers/early_stopping.py).
