@@ -8,4 +8,4 @@ This means not only we need to decrease the learning rate whe we need it, but al
 The code was developed in Pytorh
 
 
-The EarlyStopping class in pytorchtool.py is inspired by the ignite EarlyStopping class.
+The EarlyStopping class in adaptivelearning.py is inspired by the ignite EarlyStopping class.
