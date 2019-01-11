@@ -9,6 +9,6 @@ The code was developed in Pytorh
 
 
 
-![Loss plot](LearningRateCurves.png?raw=true)
+![Loss plot](LearningRateCurves.PNG?raw=true)
 
 The EarlyStopping class in adaptivelearning.py is inspired by the ignite EarlyStopping class.
